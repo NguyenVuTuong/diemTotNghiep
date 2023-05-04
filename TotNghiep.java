@@ -42,4 +42,5 @@ public class TotNghiep {
             System.out.println("Ban da truot tot nghiep!");
         }
     }
+    // ngu
 }
